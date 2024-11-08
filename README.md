@@ -1,3 +1,5 @@
+# 2021100908 이민서 기계학습 과제
+
 # titanic_survive
 
 ## 필수 다운로드 명령어
@@ -11,3 +13,4 @@
 3. Numpy
 4. seaborn
 5. scikit learn
+
